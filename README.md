@@ -20,7 +20,7 @@ Soy programador. Trabajo con sistemas administrativos, contables y de facturaci√
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,html,css,js,mysql,postgres,git,aws,docker,github,nodejs,postman,react,tailwind,ts,windows" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,html,css,js,mysql,postgres,git,aws,docker,github,nodejs,postman,react,tailwind,ts,windows,linux" />
   </a>
 </p>
 <hr>
