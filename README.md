@@ -11,7 +11,7 @@
     <summary><h2 style="display: inline-block">Sobre Mi</h2></summary>
   </ul>
 </div>
-Soy programador. Trabajo con sistemas administrativos, contables y de facturación. Manejo bases de datos y desarrollado programas que optimizan el funcionamiento de sistemas, corrigen errores o llevan a cabo funcionalidades adaptadas a las necesidades de cada empresa.
+Soy programador. Trabajo con sistemas administrativos, contables y de facturación. Manejo bases de datos y desarrollo programas que optimizan el funcionamiento de sistemas, corrigen errores o llevan a cabo funcionalidades adaptadas a las necesidades de cada empresa.
 <hr>
 <div id="user-content-toc">
   <ul align="center">
